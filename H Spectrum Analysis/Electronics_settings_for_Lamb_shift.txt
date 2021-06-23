@@ -1,0 +1,33 @@
+Electronics apparatus settings for Lamb shift runs.
+Taken 21 May 2020 by DBP
+
+SRS DS345 ("slow") function generator
+--------------------------------------
+Triangle wave, 1.00 Vpp (actually 2.00 Vpp into High-Z load)
+Frequency: 0.002 Hz
+
+SRS SR830 Lock-in amp ("probe beam")
+------------------------------------
+Time constant: 100 ms, 18dB/Oct
+Sensitivity: 20 mV
+Dynamic reserve: Normal
+Line Filters: Line, 2x Line (i.e., 60 Hz and 120 Hz notch)
+Ch 1 output: X
+Chopper frequency: 263 Hz
+
+EG&G 5210 Lock-in amp ("Fabry-Perot")
+-------------------------------------
+Time constant: 100 ms, 12db/Oct
+Sensitivity: 100 mV
+Filters: F, 2F (60,120 Hz), "Bandpass", "Track" for reference
+
+High Voltage Discharge Supply
+-----------------------------------
+1800V
+Tube current around 18 mA
+Note: Tube pressure about 250 millitorr
+
+Current amps (PDA-700)
+--------------------------
+Probe beam gain: 20 microamp full scale
+F-P detector gain: 2.0 microamp full scale
