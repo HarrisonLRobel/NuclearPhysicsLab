@@ -1,0 +1,17 @@
+Lamb shift Fabry-Perot mirror separation measurements.
+Taken by DBP, 26 May 2020.
+
+Note: these were measured with a caliper calibrated in smallest units of 0.001 inches.  
+To convert to cm, multiply by 2.54 (exact)
+
+Mirror separation (inches)
+--------------------------
+3.949
+3.947
+3.944
+3.940
+3.935
+3.948
+3.944
+3.931
+3.931
